@@ -1,3 +1,4 @@
+// Class that represents a ToDo list class
 public class ToDo {
     public int Id {get; set;}
     public string Description {get; set;} = string.Empty;
