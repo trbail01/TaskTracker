@@ -28,3 +28,4 @@ c:\Users\trevorb\TaskTracker\obj\Debug\net8.0\refint\TaskTracker.dll
 c:\Users\trevorb\TaskTracker\obj\Debug\net8.0\TaskTracker.pdb
 c:\Users\trevorb\TaskTracker\obj\Debug\net8.0\TaskTracker.genruntimeconfig.cache
 c:\Users\trevorb\TaskTracker\obj\Debug\net8.0\ref\TaskTracker.dll
+C:\Users\trevorb\TaskTracker\obj\Debug\net8.0\TaskTracker.sourcelink.json

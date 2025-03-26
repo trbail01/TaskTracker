@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "KmJ+IoTkMPE=",
+  "dgSpecHash": "51XVTBjNduo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\trevor\\TaskTracker\\TaskTracker.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\trevorb\\TaskTracker\\TaskTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trevorb\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.8\\microsoft.netcore.app.runtime.linux-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\trevorb\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.8\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\trevorb\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.8\\microsoft.netcore.app.host.linux-x64.8.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

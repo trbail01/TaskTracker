@@ -1,7 +1,7 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\trevorb\\TaskTracker\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TaskTracker.bundle.scp.css",
+      "Id": "C:\\Users\\trevorb\\TaskTracker\\obj\\Release\\net8.0\\linux-x64\\scopedcss\\projectbundle\\TaskTracker.bundle.scp.css",
       "PackagePath": "staticwebassets\\TaskTracker.bundle.scp.css"
     },
     {
@@ -245,19 +245,19 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TaskTracker.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Release\\net8.0\\linux-x64\\staticwebassets\\msbuild.TaskTracker.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TaskTracker.props",
+      "Id": "obj\\Release\\net8.0\\linux-x64\\staticwebassets\\msbuild.build.TaskTracker.props",
       "PackagePath": "build\\TaskTracker.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TaskTracker.props",
+      "Id": "obj\\Release\\net8.0\\linux-x64\\staticwebassets\\msbuild.buildMultiTargeting.TaskTracker.props",
       "PackagePath": "buildMultiTargeting\\TaskTracker.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TaskTracker.props",
+      "Id": "obj\\Release\\net8.0\\linux-x64\\staticwebassets\\msbuild.buildTransitive.TaskTracker.props",
       "PackagePath": "buildTransitive\\TaskTracker.props"
     }
   ],

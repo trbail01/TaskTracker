@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cO3iPwE6bql4PagGpBvp1/pzUCP12rG4XBStiI+gRxg=",
+  "Hash": "Yb9v8LSXp5TgFc1SW/famnRPIJQdaJsFRpXCCpplaN8=",
   "Source": "TaskTracker",
   "BasePath": "_content/TaskTracker",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\trevorb\\TaskTracker\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TaskTracker.styles.css",
+      "Identity": "C:\\Users\\trevorb\\TaskTracker\\obj\\Release\\net8.0\\linux-x64\\scopedcss\\bundle\\TaskTracker.styles.css",
       "SourceId": "TaskTracker",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\trevorb\\TaskTracker\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\trevorb\\TaskTracker\\obj\\Release\\net8.0\\linux-x64\\scopedcss\\bundle\\",
       "BasePath": "_content/TaskTracker",
       "RelativePath": "TaskTracker.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\trevorb\\TaskTracker\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TaskTracker.styles.css"
+      "OriginalItemSpec": "C:\\Users\\trevorb\\TaskTracker\\obj\\Release\\net8.0\\linux-x64\\scopedcss\\bundle\\TaskTracker.styles.css"
     },
     {
-      "Identity": "C:\\Users\\trevorb\\TaskTracker\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TaskTracker.bundle.scp.css",
+      "Identity": "C:\\Users\\trevorb\\TaskTracker\\obj\\Release\\net8.0\\linux-x64\\scopedcss\\projectbundle\\TaskTracker.bundle.scp.css",
       "SourceId": "TaskTracker",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\trevorb\\TaskTracker\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\trevorb\\TaskTracker\\obj\\Release\\net8.0\\linux-x64\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TaskTracker",
       "RelativePath": "TaskTracker.bundle.scp.css",
       "AssetKind": "All",
@@ -52,7 +52,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\trevorb\\TaskTracker\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TaskTracker.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\trevorb\\TaskTracker\\obj\\Release\\net8.0\\linux-x64\\scopedcss\\projectbundle\\TaskTracker.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\trevorb\\TaskTracker\\wwwroot\\css\\site.css",
