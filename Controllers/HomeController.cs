@@ -36,7 +36,7 @@ public class HomeController : Controller
     public IActionResult Filter(string[] filter) {
         ViewBag.Filters = string.Join(",", filter);
         return
-            View("Index", _tasks.Where(t => filter.Contains(t.Category)).ToList());
+            View("Index", _tasks.Where(t => filter.Contains(t.Type.ToString())).ToList());
     }
 
     public IActionResult Privacy()

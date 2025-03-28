@@ -15,6 +15,8 @@ Testing*@
         <option value="Work">Work</option>
         <option value="Home">Home</option>
         <option value="Exercise">Exercise</option>
+        <option value="Shopping">Shopping</option>
+        <option value="Contact">Contact</option>
     </select>
     <button type="submit">Filter</button>
 </form>
@@ -23,14 +25,14 @@ Testing*@
     <tr>
         <th>Description</th>
         <th>Due Date</th>
-        <th>Category</th>
+        <th>Type</th>
         <th>Status</th>
     </tr>
     @foreach (var task in Model){
         <tr>
             <td>@task.Description</td>
             <td>@task.DueDate?.ToShortDateString()</td>
-            <td>@task.Category</td>
+            <td>@task.Type.ToString()</td>
             <td>@task.Status</td>
         </tr>
     }

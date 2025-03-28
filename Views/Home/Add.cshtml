@@ -14,8 +14,8 @@
     </div>
 
         <div class="form-group">
-        <label asp-for="Category"></label>
-        <input asp-for="Category" class="form-control" />
+        <label asp-for="Type" class="form-label">Task Type</label>
+        <select asp-for="Type" class="form-select" asp-items="Html.GetEnumSelectList<TaskType>()"></select>
     </div>
 
     <div class="form-group">
